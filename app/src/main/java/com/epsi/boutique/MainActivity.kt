@@ -23,6 +23,7 @@ class MainActivity : AppCompatActivity() {
         val adapter = CustomAdapter(itemsViewModel)
 
         recyclerview.adapter=adapter
+        //test merge
     }
 
 
